@@ -1,13 +1,13 @@
-This is the website where you can post our photos to the community
+Setup of the application:
+  1. Clone the entire application into a folder.
+  2. Open the client folder in one terminal and server in another
+  3. To install all the modules used in client enter "npm i" in the client terminal.
+  4. And use the same command for the server also.
 
-To run the frontend:
-  Do these actions
-    1. npm install vite@latest(Only for the first time).
-    2. npm run dev and press o and enter.
+To run the Community Showcase Web Application:
+  1. In the client terminal enter "npm run dev" to run the client side application.
+  2. In the server terminal enter "node index.js" to run the server side application.
 
-To run the backend:
-  Do these actions
-    1. npm install express mongoose cors
-    2. install the mongodb compass
-
-After completing these you can easily use the application.
+Preinstalled Softwares:
+  1. Node JS
+  2. MongoDB Compass and atlas.
